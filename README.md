@@ -2,6 +2,8 @@
 
 CDK Pattern highlighting an architectual pattern that connects an SNS Message Producer to a Step Function by using EventBridge and SQS
 
+Supports the article posted at [Binaryheap](https://www.binaryheap.com/subscribe-sns-to-eventbridge-pipes-with-cdk/#more-476)
+
 ![High Level Architecture](https://www.binaryheap.com/wp-content/uploads/2023/03/sns_pipes.png)
 
 ### Description of the Flow
